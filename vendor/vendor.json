@@ -3,28 +3,28 @@
 	"ignore": "test",
 	"package": [
 		{
-			"checksumSHA1": "ZpmIsVbs9VRiZ8ZMwxxTPyW1ZpM=",
+			"checksumSHA1": "66FySld60ai7A8X83tqwih+Iguc=",
 			"path": "github.com/heppu/simple-cors",
-			"revision": "0fcde90b1493492935885d754ed54c4e4a402618",
-			"revisionTime": "2016-10-23T13:53:12Z"
+			"revision": "543cdec07e0c196abd48c5d966c0a0684cc47308",
+			"revisionTime": "2017-03-13T07:41:01Z"
 		},
 		{
-			"checksumSHA1": "ljZrmD7pmMXAkGNfp6IEzj31fY8=",
+			"checksumSHA1": "qzl/TNo4WnfR+PZRfk3iFHg68sM=",
 			"path": "github.com/joho/godotenv",
-			"revision": "4ed13390c0acd2ff4e371e64d8b97c8954138243",
-			"revisionTime": "2015-09-07T01:02:28Z"
+			"revision": "325433c502d409f3c3dc820098fb0cfe38d98dc7",
+			"revisionTime": "2017-03-28T20:01:54Z"
 		},
 		{
 			"checksumSHA1": "UE4lhbPYYWEhqHXQk24OA73m5+8=",
 			"path": "github.com/joho/godotenv/autoload",
-			"revision": "4ed13390c0acd2ff4e371e64d8b97c8954138243",
-			"revisionTime": "2015-09-07T01:02:28Z"
+			"revision": "325433c502d409f3c3dc820098fb0cfe38d98dc7",
+			"revisionTime": "2017-03-28T20:01:54Z"
 		},
 		{
-			"checksumSHA1": "Zwajkzg26yVdyb6CjmQqdwachNs=",
+			"checksumSHA1": "3+Ws5eltVsA1myFmpw8riUjbWUY=",
 			"path": "github.com/ramin0/chatbot",
-			"revision": "0a849a0a5dea20f062353751153e978421ccbd0f",
-			"revisionTime": "2016-11-05T11:40:51Z"
+			"revision": "c9bb79785b0225cdb629db50037d11361d8c0bed",
+			"revisionTime": "2017-09-22T23:21:59Z"
 		}
 	],
 	"rootPath": "github.com/ramin0/chatbot-sample"
